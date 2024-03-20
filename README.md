@@ -12,6 +12,8 @@
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=MohitSharma1187&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohitSharma1187&label=Profile%20views&color=0e75b6&style=flat" alt="MohitSharma1187" /> </p>
+
 
 ![Mohit github stats](https://github-readme-stats.vercel.app/api?username=MohitSharma1187&theme=radical&count_private=true&show_icons=true)<br/>
 
