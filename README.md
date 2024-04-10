@@ -8,8 +8,8 @@
   - 📅 Fell in love with Scrum <br/>
   - 🌷 #learninginpublic<br/>
   - 💭 Currently learning about data analytics and angular!<br/>
-<!-- 📫 How to reach me: ms7820420@gmail.com  -->
-  - 📫 How to reach me: <a href="mailto:ms7820420@gmail.com" onclick="this.href='mailto:mohit123@gmail.com'">mohitsharma@gmail.com</a>
+- 📫 How to reach me: ms7820420@gmail.com 
+
 
 
 
